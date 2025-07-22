@@ -2,6 +2,11 @@
 
 This Turborepo starter is maintained by the Turborepo core team.
 
+## While using pnpm
+
+- while adding dependency always keep workspace:\*
+- in case of npm and yarn you can use \* directly
+
 ## Using this example
 
 Run the following command:
